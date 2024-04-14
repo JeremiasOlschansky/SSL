@@ -1,1 +1,1 @@
-# SSL
+Para este tp utilicé el compilador gcc, en su versión 12.4.0, que es compatible con C11. 
